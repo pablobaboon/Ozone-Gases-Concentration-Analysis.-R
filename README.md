@@ -1,2 +1,2 @@
 # Ozone-Gases-Concentration-Analysis.-R
-Analysis of concentrations of Ozone and solar radiance, and their relation with wind speed and temperature of the air. 
+Analysis of concentrations of Ozone and solar radiance, and their relation with wind speed and temperature of the air. We try to understand the correlation between all of these parameters, and obtain insights about this. Unfortunately, I lost the raw data in a computer accident, so the only archives I can upload is the Jupyter Notebook and the R raw code. The comments are in spanish, and they describe my own thoughts and insights about the data. For any question, feel free to contact me!
